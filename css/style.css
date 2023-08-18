@@ -17,7 +17,6 @@ body {
     font-weight: 400;
     color: var(--slate, #434455);
     background-color: var(--white);
-    letter-spacing: 0.02em;
 }
 
 ul {
